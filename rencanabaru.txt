@@ -1,7 +1,6 @@
 Rencana Baru
--real project
 -update portofolio
 -cms ('selesaikan challenge')
 -fundamental data struktur
--reactjs
+-fundamental react js
 -web performance
