@@ -3,3 +3,4 @@ Rencana Baru
 -update portofolio
 -cms ('selesaikan challenge')
 -fundamental data struktur
+-reactjs
