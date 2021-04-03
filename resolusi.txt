@@ -1,1 +1,2 @@
 -Get deeper with reactjs
+-Knowing about performance
