@@ -4,3 +4,4 @@ Rencana Baru
 -fundamental data struktur
 -fundamental react js
 -web performance
+-caching images and assets
