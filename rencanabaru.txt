@@ -1,4 +1,4 @@
 Rencana Baru
 -real project
 -update portofolio
--cms
+-cms ('selesaikan challenge')
