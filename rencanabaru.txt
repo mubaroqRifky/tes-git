@@ -3,3 +3,4 @@ Rencana Baru
 -cms ('selesaikan challenge')
 -fundamental data struktur
 -fundamental react js
+-web performance
