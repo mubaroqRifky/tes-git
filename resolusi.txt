@@ -1,2 +1,3 @@
 -Get deeper with reactjs
 -Knowing about performance
+-Get a job as a frontend developer
