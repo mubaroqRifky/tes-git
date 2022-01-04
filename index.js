@@ -5,3 +5,5 @@ setTimeout(() => {
 }, 5000);
 
 console.log("ini lagi dari rifki");
+
+console.log("ini dari mubaroq");
