@@ -7,3 +7,5 @@ setTimeout(() => {
 console.log("ini lagi dari rifki");
 
 console.log("ini dari mubaroq");
+
+console.log("hey jude");
