@@ -13,3 +13,5 @@ console.log("ini dari mubaroq lagi");
 console.log("hey jude");
 
 console.log("indexnya berubah");
+
+console.log("ada perubahan lagi di index");
