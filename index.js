@@ -1,3 +1,4 @@
+// tambah comment rifki
 console.log("hey");
 
 setTimeout(() => {
