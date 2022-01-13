@@ -17,3 +17,5 @@ console.log("indexnya berubah");
 console.log("ada perubahan lagi di index");
 
 console.log("di tambahin lagi perubahan mubaroq");
+
+console.log("mubaroq tambah log");
