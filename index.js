@@ -1,5 +1,7 @@
 console.log("hey");
 
+console.log("hey lagi terbaru mubaroq");
+
 setTimeout(() => {
   console.log("hey ini dari mubaroq");
 }, 5000);
