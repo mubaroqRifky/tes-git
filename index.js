@@ -35,3 +35,7 @@ function iniFunction() {
 function funsiRifki() {
   console.log("membuat fungsi");
 }
+
+function tesRifki() {
+  console.log("tes fungsi");
+}
