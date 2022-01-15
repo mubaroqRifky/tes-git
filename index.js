@@ -43,3 +43,7 @@ function funsiRifki() {
 function tesRifki() {
   console.log("tes fungsi");
 }
+
+function tesRifkiLagi() {
+  console.log("tes fungsi lagi");
+}
