@@ -9,6 +9,8 @@ setTimeout(() => {
 
 console.log("ini lagi dari rifki berubah");
 
+console.log("hey yang diubah diatas");
+
 console.log("ini dari mubaroq");
 
 console.log("ini dari mubaroq lagi");
