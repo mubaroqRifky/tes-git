@@ -16,3 +16,7 @@ console.log("hey jude");
 function funsiRifki() {
   console.log("membuat fungsi");
 }
+
+function tesRifki() {
+  console.log("tes fungsi");
+}
