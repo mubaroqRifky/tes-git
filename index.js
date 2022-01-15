@@ -22,3 +22,8 @@ console.log("ada perubahan lagi di index");
 console.log("di tambahin lagi perubahan mubaroq");
 
 console.log("mubaroq tambah log");
+
+const tesVariable = null;
+const functionBaru = () => {
+  console.log("ini function");
+};
