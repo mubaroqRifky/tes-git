@@ -12,3 +12,7 @@ console.log("ini dari mubaroq");
 console.log("ini dari mubaroq lagi");
 
 console.log("hey jude");
+
+function funsiRifki() {
+  console.log("membuat fungsi");
+}
