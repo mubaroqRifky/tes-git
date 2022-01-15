@@ -25,6 +25,8 @@ console.log("di tambahin lagi perubahan mubaroq");
 
 console.log("mubaroq tambah log");
 
+console.log("ubah tengah");
+
 const tesVariable = null;
 const functionBaru = () => {
   console.log("ini function");
