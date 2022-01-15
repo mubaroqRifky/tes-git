@@ -27,3 +27,7 @@ const tesVariable = null;
 const functionBaru = () => {
   console.log("ini function");
 };
+
+function iniFunction() {
+  console.log("bikin function");
+}
