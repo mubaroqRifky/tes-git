@@ -31,3 +31,7 @@ const functionBaru = () => {
 function iniFunction() {
   console.log("bikin function");
 }
+
+function funsiRifki() {
+  console.log("membuat fungsi");
+}
